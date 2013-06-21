@@ -1,4 +1,5 @@
 <?php
+//test
 function createASCII($file, $character) {
 	$info = getimagesize($file);
 	
